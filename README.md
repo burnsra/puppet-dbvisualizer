@@ -1,5 +1,7 @@
 # DbVisualizer Puppet Module for Boxen
 
+[![Build Status](https://travis-ci.org/burnsra/puppet-dbvisualizer.png)](https://travis-ci.org/burnsra/puppet-dbvisualizer)
+
 Install [DbVisualizer](http://www.dbvis.com), the universal database tool for developers.
 
 ## Usage
